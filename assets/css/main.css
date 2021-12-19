@@ -1873,6 +1873,7 @@ html {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		text-decoration: none;
 	}
 
 		input[type="submit"].icon,
